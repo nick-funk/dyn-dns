@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dyn-dns": {
+      "commandName": "Project",
+      "commandLineArgs": "ip"
+    }
+  }
+}
